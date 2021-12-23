@@ -1,2 +1,0 @@
-# RepoDepo
-Learning stuff
